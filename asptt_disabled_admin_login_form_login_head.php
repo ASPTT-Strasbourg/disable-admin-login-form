@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: ASPTT - Disable Admin Login Form
-Plugin URI: https://www.badaspttstrasbourg.fr
+Plugin URI: https://github.com/ASPTT-Strasbourg/disable-admin-login-form
 Description: Hide username and password fields from Admin Login form.
 Author: Loïc Leuilliot
 Version: 1.0
